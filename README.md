@@ -1,0 +1,1 @@
+It's a final project of course "Meta React Native Specialization" on https://www.coursera.org/specializations/meta-react-native
